@@ -1,0 +1,3 @@
+This is a sample document created & edited in Bash Command
+This is Document2.txt File
+Testing Github work entirely on Bash commands
